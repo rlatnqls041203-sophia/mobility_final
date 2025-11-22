@@ -14,9 +14,9 @@ import "./css/app.css";
 // ---------------------------------------------------------------
 // 🔥 (1) 네가 직접 바꾸면 되는 부분
 // ---------------------------------------------------------------
-const ROUTE_FILE = "routes_complete_100";     
-const TAXIS_FILE = "taxis_100";              
-const PASSENGERS_FILE = "passengers";        
+const ROUTE_FILE = "routes_complete_100";
+const TAXIS_FILE = "taxis_100";
+const PASSENGERS_FILE = "passengers";
 
 // ---------------------------------------------------------------
 // fetchData: public/data/{FILE_NAME}.json
