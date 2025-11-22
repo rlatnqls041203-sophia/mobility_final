@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simulation-class/static/css/main.18e11287.css",
-    "main.js": "/simulation-class/static/js/main.a01f9e59.js",
-    "static/js/879.50a6a510.chunk.js": "/simulation-class/static/js/879.50a6a510.chunk.js",
-    "static/js/453.42145387.chunk.js": "/simulation-class/static/js/453.42145387.chunk.js",
-    "service-worker.js": "/simulation-class/service-worker.js",
-    "index.html": "/simulation-class/index.html",
-    "main.18e11287.css.map": "/simulation-class/static/css/main.18e11287.css.map",
-    "main.a01f9e59.js.map": "/simulation-class/static/js/main.a01f9e59.js.map",
-    "879.50a6a510.chunk.js.map": "/simulation-class/static/js/879.50a6a510.chunk.js.map",
-    "453.42145387.chunk.js.map": "/simulation-class/static/js/453.42145387.chunk.js.map"
+    "main.css": "/mobility_final/static/css/main.18e11287.css",
+    "main.js": "/mobility_final/static/js/main.08f17610.js",
+    "static/js/879.a9b2c243.chunk.js": "/mobility_final/static/js/879.a9b2c243.chunk.js",
+    "static/js/453.42145387.chunk.js": "/mobility_final/static/js/453.42145387.chunk.js",
+    "service-worker.js": "/mobility_final/service-worker.js",
+    "index.html": "/mobility_final/index.html",
+    "main.18e11287.css.map": "/mobility_final/static/css/main.18e11287.css.map",
+    "main.08f17610.js.map": "/mobility_final/static/js/main.08f17610.js.map",
+    "879.a9b2c243.chunk.js.map": "/mobility_final/static/js/879.a9b2c243.chunk.js.map",
+    "453.42145387.chunk.js.map": "/mobility_final/static/js/453.42145387.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e11287.css",
-    "static/js/main.a01f9e59.js"
+    "static/js/main.08f17610.js"
   ]
 }
